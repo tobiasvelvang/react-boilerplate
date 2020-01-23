@@ -1,0 +1,28 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for react projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "webpack",
+    "react",
+    "redux",
+    "express"
+  ],
+  "author": "Tobias Velvang <tobiasvelvang@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-redux": "^7.1.3",
+    "redux": "^4.0.5"
+  }
+}
